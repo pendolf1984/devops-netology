@@ -8,5 +8,5 @@ First commit
 Будут проигнорированы файлы override.tf и override.tf.json и все файлы, такие как test_override.tf и test_override.tf.json
 Будут проигнорированы файлы .terraformrc и terraform.rc  
 
-Fix branch
-
+Fix branch  
+Try commit with IDE
