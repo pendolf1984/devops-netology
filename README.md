@@ -1,5 +1,5 @@
-# devops-netology
-First commit
+# devops-netology <br />
+First commit <br />
 
 Будут проигнорированы каталоги содержащие вложенный каталог .terraform <br />
 Будут проигнорирваны crash.log и файлы, такие как crash.1.log <br />  
