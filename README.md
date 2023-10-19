@@ -1,4 +1,4 @@
-# devops-netology <br />
+# devops-netology
 First commit <br />
 
 Будут проигнорированы каталоги содержащие вложенный каталог .terraform <br />
